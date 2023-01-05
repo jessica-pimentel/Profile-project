@@ -12,5 +12,5 @@ O protótipo foi criado com o intuito de nivelamento entre HTML e CSS para um pe
 
 ## 🏷️ Layout:
 
-Você pode visualizar o layout do projeto online através do link 👉 [Projeto Online](https://jessica-pimentel.github.io/Profile-project). 
+Você pode visualizar o layout do projeto online através do link 👉 [Projeto Online](https://jessica-pimentel.github.io/profile-project). 
 
