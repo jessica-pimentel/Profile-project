@@ -8,7 +8,7 @@ Projeto realizado com auxilio do curso de nivelamento de HTML e CSS do DevSuperi
 
 ## :computer: Projeto:
 
-O protótipo foi criado com o intuito de nivelamento entre HTML e CSS para um perfil de portifóilio.
+O protótipo foi criado com o intuito de nivelamento entre HTML e CSS para um perfil de portifólio.
 
 ## 🏷️ Layout:
 
